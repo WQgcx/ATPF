@@ -1,3 +1,3 @@
 # ATPF
 
-Code for our paper ''Adversarial Transform Particle Filters''.
+Code of our paper ''Adversarial Transform Particle Filters''.
